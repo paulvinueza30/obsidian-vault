@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5a00e296cb69c18a","type":"file","file":"DevOps/Linux/what-i-need-to-know.png","x":-260,"y":-520,"width":766,"height":900},
+		{"id":"138d1fa4871e0602","type":"file","file":"DevOps/Linux/File System.md","x":-1000,"y":-560,"width":400,"height":400,"color":"4"},
+		{"id":"ef35b40137a11f70","type":"file","file":"DevOps/Linux/Boot Process.md","x":800,"y":-560,"width":400,"height":400,"color":"6"}
+	],
+	"edges":[]
+}
