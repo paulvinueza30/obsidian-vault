@@ -12,3 +12,4 @@ cloud environments have a specific location were you can disable/enable password
 ## Notes
 
 1. passwords created for users are stored in /etc/shadow and they are one-way encrypted meaning that even if you have access to this file you cannot decrypt the password back 
+u

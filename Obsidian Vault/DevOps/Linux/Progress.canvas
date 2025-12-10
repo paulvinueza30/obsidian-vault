@@ -1,5 +1,7 @@
 {
 	"nodes":[
+		{"id":"f36f7c9d5368aa5f","type":"text","text":"","x":-648,"y":-588,"width":250,"height":60},
+		{"id":"2a07a2bc8bd48765","type":"text","text":"","x":-2127,"y":992,"width":250,"height":60},
 		{"id":"5a00e296cb69c18a","type":"file","file":"Obsidian Vault/DevOps/Linux/what-i-need-to-know.png","x":-347,"y":-840,"width":940,"height":1105},
 		{"id":"ef35b40137a11f70","type":"file","file":"Obsidian Vault/DevOps/Linux/Boot Process.md","x":-77,"y":-1480,"width":400,"height":400,"color":"6"},
 		{"id":"138d1fa4871e0602","type":"file","file":"Obsidian Vault/DevOps/Linux/File System.md","x":-1300,"y":-820,"width":400,"height":400,"color":"6"},
@@ -7,7 +9,10 @@
 		{"id":"8550c960c67d98cf","type":"file","file":"Obsidian Vault/DevOps/Linux/File Permissions.md","x":-1720,"y":-1400,"width":540,"height":400,"color":"6"},
 		{"id":"b5a8690c5ce66790","type":"file","file":"Obsidian Vault/DevOps/Linux/Commands.md","x":-297,"y":440,"width":840,"height":480,"color":"6"},
 		{"id":"4763366b6a428a09","type":"file","file":"Obsidian Vault/DevOps/Linux/Process Management.md","x":-1120,"y":-180,"width":440,"height":400,"color":"6"},
-		{"id":"91c0502a3a38dd3e","type":"file","file":"Obsidian Vault/DevOps/Linux/grep-cheatsheet.jpeg","x":-1881,"y":540,"width":761,"height":760}
+		{"id":"e188a1c831cbb259","type":"file","file":"Obsidian Vault/DevOps/Linux/Package Managers.md","x":760,"y":-1400,"width":400,"height":400,"color":"6"},
+		{"id":"3374e46ae6d0ea26","type":"file","file":"Obsidian Vault/DevOps/Linux/Systemd.md","x":-900,"y":-1400,"width":400,"height":400,"color":"6"},
+		{"id":"91c0502a3a38dd3e","type":"file","file":"Obsidian Vault/DevOps/Linux/grep-cheatsheet.jpeg","x":-1261,"y":360,"width":761,"height":760,"color":"5"},
+		{"id":"eccfa33eab79611f","x":1080,"y":60,"width":520,"height":600,"color":"6","type":"file","file":"Obsidian Vault/DevOps/Linux/Networking.md"}
 	],
 	"edges":[
 		{"id":"e53cf56b8e8ad113","fromNode":"138d1fa4871e0602","fromSide":"right","toNode":"5a00e296cb69c18a","toSide":"left"},
@@ -16,6 +21,9 @@
 		{"id":"a40815f73808cca4","fromNode":"b5a8690c5ce66790","fromSide":"top","toNode":"5a00e296cb69c18a","toSide":"bottom"},
 		{"id":"df5e9c76317f8ac5","fromNode":"36ebc03ac32ae168","fromSide":"left","toNode":"5a00e296cb69c18a","toSide":"right"},
 		{"id":"a39e69d27558c112","fromNode":"4763366b6a428a09","fromSide":"right","toNode":"5a00e296cb69c18a","toSide":"left"},
-		{"id":"a8054095d04e680c","fromNode":"91c0502a3a38dd3e","fromSide":"right","toNode":"b5a8690c5ce66790","toSide":"left"}
+		{"id":"a8054095d04e680c","fromNode":"91c0502a3a38dd3e","fromSide":"right","toNode":"b5a8690c5ce66790","toSide":"left"},
+		{"id":"b8d2cf620c16d374","fromNode":"e188a1c831cbb259","fromSide":"bottom","toNode":"5a00e296cb69c18a","toSide":"top"},
+		{"id":"ab287ae5badaa277","fromNode":"3374e46ae6d0ea26","fromSide":"bottom","toNode":"5a00e296cb69c18a","toSide":"top"},
+		{"id":"7c5a0b9e65570793","fromNode":"eccfa33eab79611f","fromSide":"top","toNode":"5a00e296cb69c18a","toSide":"right"}
 	]
 }
