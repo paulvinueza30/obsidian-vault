@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DevOps/Linux/Commands.md",
+                "file": "Obsidian Vault/Homelab/Hardware Specs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "Hardware Specs"
             }
           }
         ]
@@ -183,13 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "6018aa9882ea2b6a",
+  "active": "61ce39cd15b807e2",
   "lastOpenFiles": [
+    "fastfetch.png",
+    "Pasted image 20251205200853.png",
+    "Obsidian Vault/Homelab/Hardware Specs.md",
+    "Obsidian Vault/Homelab",
+    "Pasted image 20251205200857.png",
+    "Obsidian Vault/DevOps/Linux/Commands.md",
     "Obsidian Vault/DevOps/Linux/User Management.md",
     "Obsidian Vault/DevOps/Docker/Intro.md",
     "Obsidian Vault/DevOps/Linux/Networking.md",
     "Obsidian Vault/DevOps/Docker",
-    "Obsidian Vault/DevOps/Linux/Commands.md",
     "Obsidian Vault/DevOps/Linux/File System.md",
     "Obsidian Vault/DevOps/Linux/Package Managers.md",
     "Obsidian Vault/DevOps/Linux/Process Management.md",
@@ -200,8 +205,6 @@
     "Obsidian Vault/DevOps/Linux/File Permissions.md",
     "Obsidian Vault/DevOps/Linux/Systemd.md",
     "Obsidian Vault/DevOps/Linux/what-i-need-to-know.png",
-    "Pasted image 20251205200857.png",
-    "Pasted image 20251205200853.png",
     "Obsidian Vault/DevOps/Linux/Unconfirmed 131182.crdownload",
     "Obsidian Vault/DevOps/Path to success.md",
     "Obsidian Vault/Coding Ideas/Omarchy Backup + Restore.md",
