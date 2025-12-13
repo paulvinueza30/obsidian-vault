@@ -12,7 +12,7 @@
 		{"id":"e188a1c831cbb259","type":"file","file":"Obsidian Vault/DevOps/Linux/Package Managers.md","x":760,"y":-1400,"width":400,"height":400,"color":"6"},
 		{"id":"3374e46ae6d0ea26","type":"file","file":"Obsidian Vault/DevOps/Linux/Systemd.md","x":-900,"y":-1400,"width":400,"height":400,"color":"6"},
 		{"id":"91c0502a3a38dd3e","type":"file","file":"Obsidian Vault/DevOps/Linux/grep-cheatsheet.jpeg","x":-1261,"y":360,"width":761,"height":760,"color":"5"},
-		{"id":"eccfa33eab79611f","x":1080,"y":60,"width":520,"height":600,"color":"6","type":"file","file":"Obsidian Vault/DevOps/Linux/Networking.md"}
+		{"id":"eccfa33eab79611f","type":"file","file":"Obsidian Vault/DevOps/Linux/Networking.md","x":1080,"y":60,"width":520,"height":600,"color":"6"}
 	],
 	"edges":[
 		{"id":"e53cf56b8e8ad113","fromNode":"138d1fa4871e0602","fromSide":"right","toNode":"5a00e296cb69c18a","toSide":"left"},
