@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Tech.md",
+                "file": "Homelab/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech"
+              "title": "TODO"
             }
           },
           {
@@ -183,10 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd060feb2e265764",
+  "active": "37ae5e33b1b1838f",
   "lastOpenFiles": [
-    "Untitled.md",
     "Homelab/Tech.md",
+    "Homelab/TODO.md",
+    "DevOps/Linux/what-i-need-to-know.png",
+    "DevOps/Path to success.md",
+    "Untitled.md",
     "Homelab/Kubernetes/Kubectl.md",
     "Homelab/Setup",
     "Homelab/Kubernetes",
@@ -195,9 +198,7 @@
     "Homelab/Helm",
     "Homelab/Setup/Hardware Specs.md",
     "Homelab/Setup/fastfetch.png.png",
-    "DevOps/Linux/what-i-need-to-know.png",
     "DevOps/Linux/User Management.md",
-    "DevOps/Path to success.md",
     "Homelab",
     "DevOps/Linux/Systemd.md",
     "DevOps/Linux/Package Managers.md",
