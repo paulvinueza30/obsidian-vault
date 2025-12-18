@@ -1,23 +1,29 @@
 ## Infrastructure
 
+## Bare Metal
+
+see [[Hardware Specs]]
+
+IP : 10.0.0.72
+PORT: 8006
 ### Head Node (VM ID: 100)
 
-- **IP Address:** 10.1.10.250
+- **IP Address:**  10.0.0.100
 - **User:** head
 - **OS:** Ubuntu Server 24.04.3
 - **Resources:**
     - 2 CPU cores
-    - 3 GB RAM
-    - 25 GB storage
+    - 5 GB RAM
+    - 32 GB storage
 
 ### Worker Node 1 (VM ID: 200)
 
-- **IP Address:** 10.1.10.251
+- **IP Address:** 10.0.0.234
 - **User:** worker-1
 - **OS:** Ubuntu Server 24.04.3
 - **Resources:**
-    - 2 CPU cores
-    - 1 GB RAM
+    - 3 CPU cores
+    - 8 GB RAM
     - 32 GB storage
 
 ---
