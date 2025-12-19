@@ -1,50 +1,50 @@
 /* Omarchy Theme for Obsidian */
-/* Generated on Wed Dec 17 05:38:22 PM EST 2025 from theme: dracula */
+/* Generated on Thu Dec 18 10:01:43 PM EST 2025 from theme: hakker-green */
 /* Colors sorted by frequency, backgrounds by distance */
 
 .theme-dark, .theme-light {
   /* Core colors */
-  --background-primary: #282a36;
-  --text-normal: #f8f8f2;
+  --background-primary: #000000;
+  --text-normal: #ccffee;
 
   /* Background variations (always distance-based) */
-  --background-primary-alt: #282a36;
-  --background-secondary: #282a36;
-  --background-secondary-alt: #282a36;
+  --background-primary-alt: #000000;
+  --background-secondary: #000000;
+  --background-secondary-alt: #000000;
 
   /* Code block colors (always distance-based) */
-  --code-background: #373945;
-  --code-foreground: #ffffff;
+  --code-background: #0f0f0f;
+  --code-foreground: #aaffcc;
 
   /* Border color from btop theme */
-  --border-color: #44475a;
+  --border-color: #00cc77;
 
   /* Selection colors from Alacritty */
-  --text-selection: #44475a;
-  --text-selection-fg: #f8f8f2;
+  --text-selection: #ccffee;
+  --text-selection-fg: #000000;
 
   /* 13-slot color system for remaining elements */
-  --text-title-h1: #44475a;
-  --text-title-h2: #f1fa8c;
-  --text-title-h3: #ffffff;
-  --text-title-h4: #50fa7b;
-  --text-title-h5: #ffffa5;
-  --text-title-h6: #ffffa5;  /* Same as h5 */
-  --text-link: #ffb86c;
-  --markup-code: #ff92df;
-  --text-mark: #ff79c6;
-  --interactive-accent: #ff6e6e;
-  --blockquote-border: #ff5555;
-  --text-muted: #f8f8f2;  /* Use text-specific color for muted text */
-  --text-faint: #f8f8f2;  /* Use text-specific color for faint text */
+  --text-title-h1: #00ff99;
+  --text-title-h2: #00ffcc;
+  --text-title-h3: #ffffdd;
+  --text-title-h4: #eeeeaa;
+  --text-title-h5: #dddd88;
+  --text-title-h6: #dddd88;  /* Same as h5 */
+  --text-link: #cccc66;
+  --markup-code: #aaffcc;
+  --text-mark: #99ff99;
+  --interactive-accent: #66ff66;
+  --blockquote-border: #33ff99;
+  --text-muted: #00cc77;  /* Use text-specific color for muted text */
+  --text-faint: #00cc77;  /* Use text-specific color for faint text */
 
   /* Additional mappings */
   --text-accent: var(--interactive-accent);
   --text-accent-hover: var(--interactive-accent);
   --text-error: var(--text-title-h1);
   --text-error-hover: var(--text-title-h1);
-  --text-highlight-bg: #f8f8f2;  /* Use text color as highlight background */
-  --text-on-accent: #282a36;
+  --text-highlight-bg: #ccffee;  /* Use text color as highlight background */
+  --text-on-accent: #000000;
 
   --interactive-normal: var(--code-background);
   --interactive-hover: var(--interactive-accent);
