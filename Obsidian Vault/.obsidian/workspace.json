@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Homelab/Kubernetes/DNS Issue.md",
+                "file": "DevOps/Homelab/Tech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS Issue"
+              "title": "Tech"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "ff96179edf87f1f4",
   "lastOpenFiles": [
-    "DevOps/Homelab/Kubernetes/Secrets.md",
+    "DevOps/Homelab/Kubernetes/Storage Expansion For A Node.md",
     "DevOps/Homelab/Kubernetes/DNS Issue.md",
+    "DevOps/Homelab/Kubernetes/Secrets.md",
     "DevOps/Homelab/Setup/Config.md",
     "DevOps/Homelab/Kubernetes/Helm.md",
     "DevOps/Homelab/Kubernetes/Kubectl.md",
@@ -219,7 +220,6 @@
     "DevOps/Linux/Progress.canvas",
     "DevOps/Linux/Terminology.md",
     "DevOps/Linux/Boot Process.md",
-    "DevOps/Go/Cool stuff.md",
     "DevOps/Linux"
   ]
 }
