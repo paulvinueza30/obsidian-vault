@@ -11,14 +11,14 @@
             "id": "ff96179edf87f1f4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Obsidian Vault/Go/Cool stuff.md",
-                "bFile": "Obsidian Vault/Go/Cool stuff.md",
-                "aRef": ""
+                "file": "DevOps/Homelab/Kubernetes/DNS Issue.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Cool stuff"
+              "icon": "lucide-file",
+              "title": "DNS Issue"
             }
           }
         ]
@@ -179,12 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ce7e965938df247",
+  "active": "ff96179edf87f1f4",
   "lastOpenFiles": [
-    "Untitled.base",
     "DevOps/Homelab/Kubernetes/Secrets.md",
-    "DevOps/Homelab/Kubernetes/Kubectl.md",
+    "DevOps/Homelab/Kubernetes/DNS Issue.md",
+    "DevOps/Homelab/Setup/Config.md",
     "DevOps/Homelab/Kubernetes/Helm.md",
+    "DevOps/Homelab/Kubernetes/Kubectl.md",
+    "Untitled.base",
     "Ideas/Omarchy Backup + Restore.md",
     "DevOps/Homelab/Tech.md",
     "Open Source/Contribution Ideas.md",
@@ -198,7 +200,6 @@
     "Untitled.md",
     "DevOps/Homelab/Setup",
     "DevOps/Homelab/Kubernetes",
-    "DevOps/Homelab/Setup/Config.md",
     "Homelab/Helm",
     "DevOps/Homelab/Setup/Hardware Specs.md",
     "DevOps/Homelab/Setup/fastfetch.png.png",

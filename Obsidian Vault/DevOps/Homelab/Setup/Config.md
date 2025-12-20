@@ -8,13 +8,13 @@ IP : 10.0.0.72
 PORT: 8006
 ### Head Node (VM ID: 100)
 
-- **IP Address:**  10.0.0.100
+- **IP Address:**  10.0.0.110
 - **User:** head
 - **OS:** Ubuntu Server 24.04.3
 - **Resources:**
     - 2 CPU cores
     - 5 GB RAM
-    - 32 GB storage
+    - 50 GB storage
 
 ### Worker Node 1 (VM ID: 200)
 
@@ -70,7 +70,7 @@ bash
 
 ```bash
 curl -sfL https://get.k3s.io | \
-  K3S_URL=https://10.1.10.250:6443 \
+  K3S_URL= <ip-address-of-head-node> \
   K3S_TOKEN=<your-token-here> \
   sh -
 ```
