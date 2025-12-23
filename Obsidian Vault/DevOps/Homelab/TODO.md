@@ -1,6 +1,6 @@
 # Definitely 
 
-- [ ] Get a smart plug to measure power usage
+- [x] Get a smart plug to measure power usage
 
 # Maybe?
 

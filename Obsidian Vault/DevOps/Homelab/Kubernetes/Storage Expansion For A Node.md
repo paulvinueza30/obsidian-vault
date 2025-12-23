@@ -6,7 +6,6 @@ Before starting, use `lsblk` to identify the disk names and current partition si
 
 ```bash
 lsblk
-
 ```
 
 * **Purpose:** Confirms the new disk (e.g., `/dev/sdb`) is detected by the kernel and shows the existing Logical Volume (LV) path.

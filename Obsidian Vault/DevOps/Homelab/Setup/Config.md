@@ -2,6 +2,13 @@
 
 ## Bare Metal
 
+#### Pretty Colors LED
+
+**Optional**: apt-get openrgb
+
+```bash
+openrgb -d 1 -c B7D455 -d 0 -c B7D455 -d 2 -m Breathing -c a0c17f -s 1
+```
 see [[Hardware Specs]]
 
 IP : 10.0.0.72

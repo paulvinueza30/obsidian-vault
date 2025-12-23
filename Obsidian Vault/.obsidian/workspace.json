@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b51d238d09acb909",
+        "id": "45b5162996813f09",
         "type": "tabs",
         "children": [
           {
-            "id": "ff96179edf87f1f4",
+            "id": "3528a988de119907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Homelab/Tech.md",
+                "file": "DevOps/Linux/Bash Tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech"
+              "title": "Bash Tricks"
             }
           }
         ]
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,47 +179,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff96179edf87f1f4",
+  "active": "3528a988de119907",
   "lastOpenFiles": [
+    "DevOps/Linux/Bash Tricks.md",
+    "DevOps/Linux/what-i-need-to-know.png",
+    "DevOps/Linux/User Management.md",
+    "DevOps/Linux/Terminology.md",
+    "DevOps/Linux/Sym Links.md",
+    "DevOps/Linux/Progress.canvas",
+    "DevOps/Linux/Package Managers.md",
+    "DevOps/Linux/File Permissions.md",
+    "DevOps/Linux/Commands.md",
+    "DevOps/Linux/Boot Process.md",
+    "DevOps/Linux/File System.md",
+    "DevOps/Linux/Systemd.md",
+    "DevOps/Linux/Process Management.md",
+    "DevOps/Linux/Networking.md",
+    "DevOps/Homelab/Setup/Config.md",
+    "DevOps/Homelab/Setup/Hardware Specs.md",
+    "DevOps/Homelab/Setup/fastfetch.png.png",
+    "DevOps/Homelab/Tech.md",
+    "DevOps/Homelab/TODO.md",
+    "DevOps/Git Setup.md",
+    "DevOps/Homelab/Kubernetes/Kubectl.md",
+    "DevOps/Homelab/Kubernetes/Secrets.md",
     "DevOps/Homelab/Kubernetes/Storage Expansion For A Node.md",
     "DevOps/Homelab/Kubernetes/DNS Issue.md",
-    "DevOps/Homelab/Kubernetes/Secrets.md",
-    "DevOps/Homelab/Setup/Config.md",
-    "DevOps/Homelab/Kubernetes/Helm.md",
-    "DevOps/Homelab/Kubernetes/Kubectl.md",
-    "Untitled.base",
-    "Ideas/Omarchy Backup + Restore.md",
-    "DevOps/Homelab/Tech.md",
     "Open Source/Contribution Ideas.md",
-    "Ideas/Active Pieces Flows/SNS Share.md",
-    "Open Source",
-    "Ideas/Active Pieces Flows/Active.md",
-    "Ideas/Active Pieces Flows",
-    "DevOps/Homelab/TODO.md",
-    "DevOps/Linux/what-i-need-to-know.png",
+    "DevOps/Linux/grep-cheatsheet.jpeg",
     "DevOps/Path to success.md",
-    "Untitled.md",
+    "DevOps/Homelab/ActivePieces.md",
+    "DevOps/Homelab/ActivePieces/Untitled.md",
+    "DevOps/Homelab/ActivePieces/Get Yesterday's Github Mass Diff.json",
+    "DevOps/Homelab/ActivePieces",
+    "DevOps/Homelab/Setup/Untitled",
+    "Untitled.base",
+    "Open Source",
+    "Ideas/Active Pieces Flows",
     "DevOps/Homelab/Setup",
     "DevOps/Homelab/Kubernetes",
     "Homelab/Helm",
-    "DevOps/Homelab/Setup/Hardware Specs.md",
-    "DevOps/Homelab/Setup/fastfetch.png.png",
-    "DevOps/Linux/User Management.md",
-    "DevOps/Homelab",
-    "DevOps/Linux/Systemd.md",
-    "DevOps/Linux/Package Managers.md",
-    "DevOps/Linux/Networking.md",
-    "DevOps/Docker/Intro.md",
-    "DevOps/Docker",
-    "DevOps/Linux/grep-cheatsheet.jpeg",
-    "DevOps/Linux/Process Management.md",
-    "DevOps/Linux/File Permissions.md",
-    "DevOps/Linux/Commands.md",
-    "Ideas",
-    "DevOps/Linux/File System.md",
-    "DevOps/Linux/Progress.canvas",
-    "DevOps/Linux/Terminology.md",
-    "DevOps/Linux/Boot Process.md",
-    "DevOps/Linux"
+    "DevOps/Homelab"
   ]
 }

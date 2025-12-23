@@ -6,7 +6,11 @@
 alias kb = sudo kubectl
 ```
 
+# Create Namespace
 
+```bash
+kb create namespace [NAME]
+```
 
 # Pods
 
