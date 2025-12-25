@@ -23,7 +23,7 @@ PORT: 8006
     - 5 GB RAM
     - 50 GB storage
 
-### Worker Node 1 (VM ID: 200)
+### Worker Node 1 (VM ID: 200) #Apps
 
 - **IP Address:** 10.0.0.234
 - **User:** worker-1
@@ -33,8 +33,15 @@ PORT: 8006
     - 8 GB RAM
     - 32 GB storage
 
+### Worker Node 2 (VM ID: 200) #AI
+- IP Address: 10.0.0.224
+- User: worker-2
+- OS: Ubuntu Server 24.04.3
+- Resources:
+	- 6 CPU corse
+	- 16 GB RAM
+	- 60 GB storage space
 ---
-
 ## Setup Steps
 
 ### 1. Initialize Head Node (Server)

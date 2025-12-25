@@ -1,0 +1,2 @@
+[[fastfetch.png]]
+![[fastfetch.png]]

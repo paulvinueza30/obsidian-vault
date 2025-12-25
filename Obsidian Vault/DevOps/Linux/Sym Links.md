@@ -11,7 +11,7 @@ ln -s [SOURCE] [DEST]
 **Long Listing Format**
 
 ```bash
-ls -l path
+ls -l path[[Systemd]]
 ```
 
 **Show Directories**
