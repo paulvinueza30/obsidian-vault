@@ -1,4 +1,4 @@
-I
+
 ## Quick Setup For Me
 
 ```shell

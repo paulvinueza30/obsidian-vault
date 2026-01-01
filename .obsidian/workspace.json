@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Homelab/Config.md",
+                "file": "Obsidian Vault/DevOps/Homelab/Proxmox Setup/Config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Config"
             }
+          },
+          {
+            "id": "d33c3515e4475ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/DevOps/Homelab/Kubernetes/Kubectl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kubectl"
+            }
+          },
+          {
+            "id": "d0bc9faa4252b5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/DevOps/Homelab/Kubernetes/Logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logs"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,8 +212,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "6018aa9882ea2b6a",
+  "active": "d0bc9faa4252b5d8",
   "lastOpenFiles": [
+    "Obsidian Vault/DevOps/Homelab/Kubernetes/Kubectl.md",
+    "Obsidian Vault/DevOps/Homelab/Proxmox Setup/Config.md",
+    "Obsidian Vault/DevOps/Homelab/Kubernetes/Logs.md",
+    "Obsidian Vault/DevOps/Homelab/Kubernetes/ConfigMap.md",
+    "Pasted image 20251231074616.png",
+    "Probes.md",
+    "Obsidian Vault/DevOps/Linux/Hardware.md",
+    "K8S.md",
+    "Obsidian Vault/DevOps/Linux/Sym Links.md",
+    "Obsidian Vault/DevOps/Git Setup.md",
     "Obsidian Vault/Homelab/Hardware Specs.md",
     "Obsidian Vault/Homelab/Config.md",
     "fastfetch.png",
