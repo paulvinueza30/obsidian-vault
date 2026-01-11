@@ -1,6 +1,8 @@
 # Definitely 
 
 - [x] Get a smart plug to measure power usage
+- [ ] run a fine tuned model with ollama for my portoflio and host it
+- [ ] add 600 gb ssd for more space
 
 # Maybe?
 

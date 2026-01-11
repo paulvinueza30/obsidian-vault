@@ -38,9 +38,10 @@ PORT: 8006
 - User: worker-2
 - OS: Ubuntu Server 24.04.3
 - Resources:
-	- 6 CPU corse
+	- 6 CPU cores
 	- 16 GB RAM
 	- 60 GB storage space
+	- GPU passthrough
 ---
 ## Setup Steps
 
@@ -84,7 +85,7 @@ bash
 
 ```bash
 curl -sfL https://get.k3s.io | \
-  K3S_URL= <ip-address-of-head-node> \
+  K3S_URL= <ip-address-of-head-node>:6443 \
   K3S_TOKEN=<your-token-here> \
   sh -
 ```

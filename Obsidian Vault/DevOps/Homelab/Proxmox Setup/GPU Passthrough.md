@@ -9,7 +9,7 @@
 **Note**: For full guide see [PCI Passthrough](https://pve.proxmox.com/wiki/PCI_Passthrough)
 
 **Note**: As I am using an AMD GPU I will only do AMD
-j
+
  ```bash
  echo "blacklist amdgpu" >> /etc/modprobejk.d/blacklist.conf
  echo "blacklist radeon" >> /etc/modprobe.d/blacklist.conf
@@ -28,7 +28,7 @@ lspci | grep -i vga
 # Check ownership
 lspci -nnk -s {first column of above}
 
-# One liner for all
+# One liner for all (only one gpu)
 lspci -nnk -s $(lspci | grep -i vga | awk '{print $1}')
 ```
 
